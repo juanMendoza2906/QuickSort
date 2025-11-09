@@ -1,0 +1,22 @@
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.AssemblyReference.cache
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.Form_Quicksort.resources
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.Properties.Resources.resources
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.GenerateResource.cache
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
+E:\escuela\Metodos de ordenar\Quicksort\Quicksort\obj\Debug\Quicksort.exe.config
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.exe.config
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.Form_Quicksort.resources
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.Properties.Resources.resources
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\Juan Pablo\Downloads\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
